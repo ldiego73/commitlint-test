@@ -18,5 +18,5 @@ jobs:
         with:
           node-version: 14
       - run: npm install
-      - run: npx commitlint --from HEAD~3 --to HEAD --verbose
+      - run: npx commitlint --from HEAD^ --to HEAD --verbose
       
