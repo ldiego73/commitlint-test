@@ -14,4 +14,4 @@ yarn prepare
 
 # History
 
-Change 7.1
+Change 7.2
