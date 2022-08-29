@@ -11,3 +11,7 @@ Enable Git hooks
 ```bash
 yarn prepare
 ```
+
+# History
+
+Change 1
